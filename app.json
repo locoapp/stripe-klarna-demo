@@ -12,7 +12,8 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.loco.stripeklarnademo",
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSCameraUsageDescription": "This app uses the camera to scan credit cards."
       }
     },
     "android": {
